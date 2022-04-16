@@ -1,1 +1,26 @@
-/* You can add global styles to this file, and also import other style files */
+h2{
+    color: green;
+   
+}
+h2,h3{
+    text-align: center;
+
+}
+
+a{
+    /* color: #ffffff !important;
+    padding: 1%; */
+}
+
+.errormessage{
+    color: red;
+}
+.card{
+    width:100% !important;
+    display: block !important;
+    height: 150px !important;
+}
+
+.shadow-lg {
+    margin: 10px;
+}
